@@ -1,0 +1,10 @@
+# Site navigation links
+
+- title: Home
+  url: /
+- title: CV
+  url: /cv/
+- title: publications
+  url: /publications/
+- title: other
+  url: /other/
