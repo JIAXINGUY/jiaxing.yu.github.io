@@ -19,7 +19,7 @@ categories: jekyll update
 
   <div class="entries-list">
   <div class="entry-image-container">
-    <img class="entry-image u-photo" src="![image](C:\Users\jiaxi\OneDrive\Documents\jiaxingjeanneyu.github.io/main.jpeg)" alt="">
+    <img class="entry-image u-photo" src="C:\Users\jiaxi\OneDrive\Documents\jiaxingjeanneyu.github.io/main.jpeg" alt="">
     <div class="entry-contact">
       <div class="twitter">
         <div>
