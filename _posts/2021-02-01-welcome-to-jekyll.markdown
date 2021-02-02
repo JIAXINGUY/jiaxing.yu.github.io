@@ -4,10 +4,22 @@ title:  "More about me"
 date:   2021-02-01 19:34:16 -0500
 categories: jekyll update
 ---
+<main id="main" class="main-content" aria-label="Content">
+  <article>
+    
 
-<div class="entries-list">
+   <div class="page-wrapper">
+      <header class="page-header">
+        
+   <h1 id="page-title" class="page-title"></h1>
+        
+   </header>
+      <div class="page-content">
+        
+
+  <div class="entries-list">
   <div class="entry-image-container">
-    <img class="entry-image u-photo" src="/assets/img/main.jpeg" alt="">
+    <img class="entry-image u-photo" src="C:\Users\jiaxi\OneDrive\Documents\jiaxingjeanneyu.github.io/main.jpeg" alt="">
     <div class="entry-contact">
       <div class="twitter">
         <div>
