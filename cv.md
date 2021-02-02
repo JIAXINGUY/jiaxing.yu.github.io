@@ -2,4 +2,4 @@
 layout: page
 permalink: /cv/
 --- 
-![](.\ontario.jpeg)
+![](ontario.jpeg)
