@@ -1,23 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "More about me"
 date:   2021-02-01 19:34:16 -0500
 categories: jekyll update
 ---
-<main id="main" class="main-content" aria-label="Content">
-  <article>
-    
-
-    <div class="page-wrapper">
-      <header class="page-header">
-        
-        
-          <h1 id="page-title" class="page-title"></h1>
-        
-      </header>
-      <div class="page-content">
-        
-
 
 <div class="entries-list">
   <div class="entry-image-container">
