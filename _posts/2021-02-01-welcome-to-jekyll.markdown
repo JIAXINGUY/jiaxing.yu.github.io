@@ -4,26 +4,46 @@ title:  "Welcome to Jekyll!"
 date:   2021-02-01 19:34:16 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<main id="main" class="main-content" aria-label="Content">
+  <article>
+    
 
-Jekyll requires blog post files to be named according to the following format:
+    <div class="page-wrapper">
+      <header class="page-header">
+        
+        
+          <h1 id="page-title" class="page-title"></h1>
+        
+      </header>
+      <div class="page-content">
+        
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<div class="entries-list">
+  <div class="entry-image-container">
+    <img class="entry-image u-photo" src="/assets/img/main.jpeg" alt="">
+    <div class="entry-contact">
+      <div class="twitter">
+        <div>
+          <i class="fab fa-fw fa-twitter" aria-hidden="true"></i>
+          <a href="https://twitter.com/jiaxing_yu">jiaxing_yu</a>
+        </div>
+          <i class="fa fa-fw fa-envelope" aria-hidden="true"></i>
+          <a href="mailto: jy729@rutgers.edu">jy729@rutgers.edu</a>; <a href="mailto: jiaxinguy@gmail.com">jiaxinguy@gmail.com</a>
+      </div>
+    </div>
+  </div>
+  <article class="entry h-entry">
+    <div class="article-content">
+      <header class="entry-header">
+        <h3 class="entry-title p-name">
+          <a href="" rel="bookmark">More About Me</a>
+        </h3>
+      </header>
+      <div class="entry-excerpt p-summary">
+        <p>My linguistics interests are in semantics, syntax and experimental linguistics. My master’s thesis topic is The Syntactic and Semantic Analysis of Classifier-noun phrases in Mandarin, with emphasis on lexical semantics of classifiers. I enjoy using mathematical ways to represent the internal structure and meanings of natural languages under the superficial combination of words. I have specific interests in indefiniteness, modification of quantifiers, semantic restrictions on modifiers, anaphors and wh-movement. I would love to continue research on East Asian languages including Mandarin, dialects of Chinese and Japanese.</p>
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+      </div>
+    </div>
+  </article>
+</div>
