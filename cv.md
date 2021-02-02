@@ -2,4 +2,4 @@
 layout: page
 permalink: /cv/
 --- 
-![](ontario.jpeg)
+![image](C:\Users\jiaxi\OneDrive\Documents\jiaxingjeanneyu.github.io/ontario.jpeg)
