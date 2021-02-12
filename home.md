@@ -1,5 +1,5 @@
 ---
-layout: page
+permalink: /
 ---
 <main id="main" class="main-content" aria-label="Content">
   <article>
