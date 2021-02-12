@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /
 ---
 <main id="main" class="main-content" aria-label="Content">
