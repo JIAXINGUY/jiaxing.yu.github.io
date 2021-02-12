@@ -2,7 +2,6 @@
 layout: default
 permalink: /
 ---
-hello world
 <main id="main" class="main-content" aria-label="Content">
   <article>
     
@@ -44,3 +43,42 @@ hello world
     </div>
   </article>
 </div>
+
+<style>
+.layout--home .page-wrapper {
+  max-width: 1000px;
+}
+.site-title {
+  font-size: 45px;
+  font-style: italic;
+  font-weight: 600;
+}
+.entries-list {
+  text-align: center;
+}
+.entry-image-container {
+  width: 30%;
+  display: inline-block;
+}
+.entries-list .entry {
+  text-align: justify;
+  vertical-align: top;
+  display: inline-block;
+  width: 69%;
+}
+.article-content {
+  margin-left: 5%;
+}
+.entries-list .entry-title {
+  font-size: 30px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+}
+</style>
+
+
+        
+      </div>
+    </div>
+  </article>
+</main>
