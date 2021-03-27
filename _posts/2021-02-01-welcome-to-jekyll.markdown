@@ -10,14 +10,6 @@ permalink: /
     https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
 -->
 
-  
-
-  
-    <title>Jeanne Yu</title>
-    <meta name="description" content="Hello! I am the first-year PhD student in the Department of Linguistics at Rutgers University. I received my MA in General Linguistics from the University of...">
-    <link rel="canonical" href="/">
-  
-
   <script>
     /* Cut the mustard */
     if ( 'querySelector' in document && 'addEventListener' in window ) {
