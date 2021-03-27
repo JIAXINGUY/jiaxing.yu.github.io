@@ -8,18 +8,20 @@ permalink: /
   <article>
     
 
-   <div class="page-wrapper">
+    <div class="page-wrapper">
       <header class="page-header">
         
-   <h1 id="page-title" class="page-title"></h1>
         
-   </header>
+          <h1 id="page-title" class="page-title"></h1>
+        
+      </header>
       <div class="page-content">
         
 
-  <div class="entries-list">
+
+<div class="entries-list">
   <div class="entry-image-container">
-    <img class="entry-image u-photo" src="/jiaxingjeanneyu.github.io/main.jpeg" alt="">
+    <img class="entry-image u-photo" src="/main.jpeg" alt="">
     <div class="entry-contact">
       <div class="twitter">
         <div>
@@ -45,3 +47,42 @@ permalink: /
     </div>
   </article>
 </div>
+
+<style>
+.layout--home .page-wrapper {
+  max-width: 1000px;
+}
+.site-title {
+  font-size: 45px;
+  font-style: italic;
+  font-weight: 600;
+}
+.entries-list {
+  text-align: center;
+}
+.entry-image-container {
+  width: 30%;
+  display: inline-block;
+}
+.entries-list .entry {
+  text-align: justify;
+  vertical-align: top;
+  display: inline-block;
+  width: 69%;
+}
+.article-content {
+  margin-left: 5%;
+}
+.entries-list .entry-title {
+  font-size: 30px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+}
+</style>
+
+
+        
+      </div>
+    </div>
+  </article>
+</main>
