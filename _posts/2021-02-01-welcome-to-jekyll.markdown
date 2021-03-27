@@ -12,8 +12,7 @@ permalink: /
 
   
 
-
-  <main id="main" class="main-content" aria-label="Content">
+<main id="main" class="main-content" aria-label="Content">
   <article>
     
 
