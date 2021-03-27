@@ -2,19 +2,14 @@
 layout: default
 permalink: /
 ---
-<!DOCTYPE html>
+
 <!--
     So Simple Jekyll Theme 3.2.0
     Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
     Free for personal and commercial use under the MIT license
     https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
 -->
-<html lang="en-US" class="no-js">
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  
+
   
 
   
@@ -188,5 +183,3 @@ p.site-description.animated.fadeIn {
 
 
   </body>
-
-</html>
