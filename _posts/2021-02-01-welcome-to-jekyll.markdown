@@ -2,9 +2,92 @@
 layout: default
 permalink: /
 ---
+<!DOCTYPE html>
+<!--
+    So Simple Jekyll Theme 3.2.0
+    Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+    Free for personal and commercial use under the MIT license
+    https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
+-->
+<html lang="en-US" class="no-js">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+
+  
+    <title>Jeanne Yu</title>
+    <meta name="description" content="Hello! I am the first-year PhD student in the Department of Linguistics at Rutgers University. I received my MA in General Linguistics from the University of...">
+    <link rel="canonical" href="/">
+  
+
+  <script>
+    /* Cut the mustard */
+    if ( 'querySelector' in document && 'addEventListener' in window ) {
+      document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + 'js';
+    }
+  </script>
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/skins/default.css">
+  <link rel="alternate" type="application/atom+xml" title="Jeanne Yu" href="/feed.xml">
+<!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+</head>
 
 
-<main id="main" class="main-content" aria-label="Content">
+  <body class="layout--home  ">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#primary-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+  <div class="navigation-wrapper">
+    <a href="#menu-toggle" id="menu-toggle">Menu</a>
+    <nav id="primary-nav" class="site-nav animated drop">
+      <ul><li><a href="/">Home</a></li><li><a href="/cv">CV</a></li><li><a href="/publications">Publications</a></li><li><a href="/other">Other</a></li></ul>
+    </nav>
+  </div><!-- /.navigation-wrapper -->
+
+
+    <header class="masthead">
+  <div class="wrap">
+    
+    
+    
+      
+        <h1 class="site-title animated fadeIn"><a href="/">Jeanne Yu</a></h1>
+      
+      <p class="site-description animated fadeIn" itemprop="description">Hello! I am the first-year PhD student in the Department of Linguistics at Rutgers University.<br/> I received my MA in General Linguistics from the University of Rochester in 2020 and BA in Chinese Literature and Languages from Nanjing University in 2018.
+ </p>
+    
+  </div>
+</header><!-- /.masthead -->
+
+<style>
+p.site-description.animated.fadeIn {
+    font-size: 15px;
+    font-style: normal;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: justify;
+    max-width: 800px;
+    margin: auto;
+}
+</style>
+
+
+    <main id="main" class="main-content" aria-label="Content">
   <article>
     
 
@@ -86,3 +169,24 @@ permalink: /
     </div>
   </article>
 </main>
+
+
+    <footer id="footer" class="site-footer">
+  <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+<div class="copyright">
+    
+      <p>&copy; 2021 Jeanne Yu. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>.</p>
+    
+  </div>
+</footer>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
+
+
+  </body>
+
+</html>
