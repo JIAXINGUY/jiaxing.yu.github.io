@@ -17,13 +17,13 @@ permalink: /
   <article>
     
 
-    <div class="page-wrapper">
+   <div class="page-wrapper">
       <header class="page-header">
         
+  
+  <h1 id="page-title" class="page-title"></h1>
         
-          <h1 id="page-title" class="page-title"></h1>
-        
-      </header>
+  </header>
       <div class="page-content">
         
 
