@@ -36,9 +36,9 @@
 
 
 
-title: Jiaxing Jeanne Yu 
-email: jiaxing.j.yu@rutgers.edu
-description: >- # this means to ignore newlines until "baseurl:"
+ title: Jiaxing Jeanne Yu 
+ email: jiaxing.j.yu@rutgers.edu
+ description: >- # this means to ignore newlines until "baseurl:"
   Hello! I am the first-year PhD student in the Department of Linguistics at Rutgers University.<br/> I received my MA in General Linguistics from the University of Rochester in 2020 and BA in Chinese Literature and Languages from Nanjing University in 2018.
    <style>
  p.site-description.animated.fadeIn {
@@ -49,16 +49,16 @@ description: >- # this means to ignore newlines until "baseurl:"
      max-width: 800px;
      margin: auto;
    }
-# </style>
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+  </style>
+ baseurl: "" # the subpath of your site, e.g. /blog
+ url: "" # the base hostname & protocol for your site, e.g. http://example.com
+ twitter_username: jekyllrb
+ github_username:  jekyll
 
-# Build settings
-#remote_theme: "mmistakes/so-simple-theme@3.2.0"
-#plugins:
-#  - jekyll-feed
+ Build settings
+ remote_theme: "mmistakes/so-simple-theme@3.2.0"
+ plugins:
+   - jekyll-feed
   
  # <description="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,700i|Lora:400,400i,700,700i">
 
