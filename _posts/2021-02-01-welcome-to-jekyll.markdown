@@ -137,31 +137,31 @@ p.site-description.animated.fadeIn {
 
 
         
-      </div>
-    </div>
+  </div>
+  </div>
   </article>
 </main>
 
 
-    <footer id="footer" class="site-footer">
+  <footer id="footer" class="site-footer">
   <!-- start custom footer snippets -->
 
 <!-- end custom footer snippets -->
 <div class="copyright">
     
-      <p>&copy; 2021 Jeanne Yu. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>.</p>
+  <p>&copy; 2021 Jeanne Yu. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>.</p>
     
   </div>
 </footer>
 
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
   <script src="/assets/js/main.min.js"></script>
   <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
 
 
   </body>
 
-</html>
+
 
 
 
