@@ -11,17 +11,6 @@ permalink: /
 -->
 
 
- # <body class="layout--home  ">
-  #  <nav class="skip-links">
-  #<h2 class="screen-reader-text">Skip links</h2>
-  3<ul>
-    <li><a href="#primary-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
-    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
-    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
- # </ul>
-#</nav>
-
-    
   <div class="navigation-wrapper">
     <a href="#menu-toggle" id="menu-toggle">Menu</a>
     <nav id="primary-nav" class="site-nav animated drop">
@@ -30,7 +19,7 @@ permalink: /
   </div><!-- /.navigation-wrapper -->
 
 
-    <header class="masthead">
+   <header class="masthead">
   <div class="wrap">
     
     
@@ -157,7 +146,7 @@ p.site-description.animated.fadeIn {
   <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
 
 
-  </body>
+
 
 
 
