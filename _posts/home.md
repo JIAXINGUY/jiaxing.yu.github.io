@@ -40,7 +40,7 @@ permalink: /
         </h3>
       </header>
       <div class="entry-excerpt p-summary">
-        <p>My linguistics interests are in semantics, syntax and experimental linguistics. My master’s thesis topic is The Syntactic and Semantic Analysis of Classifier-noun phrases in Mandarin, with emphasis on lexical semantics of classifiers. I enjoy using mathematical ways to represent the internal structure and meanings of natural languages under the superficial combination of words. I have specific interests in indefiniteness, modification of quantifiers, semantic restrictions on modifiers, anaphors and wh-movement. I would love to continue research on East Asian languages including Mandarin, dialects of Chinese and Japanese.</p>
+        <p>My linguistics interests are in semantics, syntax and experimental linguistics. My master’s thesis topic is The Syntactic and Semantic Analysis of Classifier-noun phrases in Mandarin, with emphasis on lexical semantics of classifiers. I enjoy using mathematical ways to represent the internal structure and meanings of natural languages under the superficial combination of words. I have specific interests in indefiniteness, modification of quantifiers, semantic restrictions on modifiers, anaphors and wh-movement. My current QP is on Mandarin demonstratives under the supervision of Dorothy Ahn.</p>
 
       </div>
     </div>
