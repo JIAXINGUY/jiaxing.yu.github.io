@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-27T12:20:43-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jiaxing Jeanne Yu</title><subtitle>Hello! I am the first-year PhD student in the Department of Linguistics at Rutgers University.&lt;br/&gt; I received my MA in General Linguistics from the University of Rochester in 2020 and BA in Chinese Literature and Languages from Nanjing University in 2018.</subtitle><entry><title type="html">Welcome To Jekyll</title><link href="http://localhost:4000/" rel="alternate" type="text/html" title="Welcome To Jekyll" /><published>2021-02-01T00:00:00-05:00</published><updated>2021-02-01T00:00:00-05:00</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/">&lt;main id=&quot;main&quot; class=&quot;main-content&quot; aria-label=&quot;Content&quot;&gt;
+  &lt;article&gt;
+    
+
+    &lt;div class=&quot;page-wrapper&quot;&gt;
+      &lt;header class=&quot;page-header&quot;&gt;
+        
+        
+          &lt;h1 id=&quot;page-title&quot; class=&quot;page-title&quot;&gt;&lt;/h1&gt;
+        
+      &lt;/header&gt;
+      &lt;div class=&quot;page-content&quot;&gt;
+        
+
+
+&lt;div class=&quot;entries-list&quot;&gt;
+  &lt;div class=&quot;entry-image-container&quot;&gt;
+    &lt;img class=&quot;entry-image u-photo&quot; src=&quot;/main.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;div class=&quot;entry-contact&quot;&gt;
+      &lt;div class=&quot;twitter&quot;&gt;
+        &lt;div&gt;
+          &lt;i class=&quot;fab fa-fw fa-twitter&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
+          &lt;a href=&quot;https://twitter.com/jiaxing_yu&quot;&gt;jiaxing_yu&lt;/a&gt;
+        &lt;/div&gt;
+          &lt;i class=&quot;fa fa-fw fa-envelope&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
+          &lt;a href=&quot;mailto: jy729@rutgers.edu&quot;&gt;jy729@rutgers.edu&lt;/a&gt;; &lt;a href=&quot;mailto: jiaxinguy@gmail.com&quot;&gt;jiaxinguy@gmail.com&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;article class=&quot;entry h-entry&quot;&gt;
+    &lt;div class=&quot;article-content&quot;&gt;
+      &lt;header class=&quot;entry-header&quot;&gt;
+        &lt;h3 class=&quot;entry-title p-name&quot;&gt;
+          &lt;a href=&quot;&quot; rel=&quot;bookmark&quot;&gt;More About Me&lt;/a&gt;
+        &lt;/h3&gt;
+      &lt;/header&gt;
+      &lt;div class=&quot;entry-excerpt p-summary&quot;&gt;
+        &lt;p&gt;My linguistics interests are in semantics, syntax and experimental linguistics. My master’s thesis topic is The Syntactic and Semantic Analysis of Classifier-noun phrases in Mandarin, with emphasis on lexical semantics of classifiers. I enjoy using mathematical ways to represent the internal structure and meanings of natural languages under the superficial combination of words. I have specific interests in indefiniteness, modification of quantifiers, semantic restrictions on modifiers, anaphors and wh-movement. I would love to continue research on East Asian languages including Mandarin, dialects of Chinese and Japanese.&lt;/p&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.layout--home .page-wrapper {
+  max-width: 1000px;
+}
+.site-title {
+  font-size: 45px;
+  font-style: italic;
+  font-weight: 600;
+}
+.entries-list {
+  text-align: center;
+}
+.entry-image-container {
+  width: 30%;
+  display: inline-block;
+}
+.entries-list .entry {
+  text-align: justify;
+  vertical-align: top;
+  display: inline-block;
+  width: 69%;
+}
+.article-content {
+  margin-left: 5%;
+}
+.entries-list .entry-title {
+  font-size: 30px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+}
+&lt;/style&gt;
+
+
+        
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+&lt;/main&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
