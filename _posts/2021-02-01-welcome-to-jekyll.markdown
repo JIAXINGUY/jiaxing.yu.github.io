@@ -27,7 +27,7 @@ permalink: /
       
         <h1 class="site-title animated fadeIn"><a href="/">Jeanne Yu</a></h1>
       
-      <p class="site-description animated fadeIn" itemprop="description">Hello! I am the first-year PhD student in the Department of Linguistics at Rutgers University.<br/> I received my MA in General Linguistics from the University of Rochester in 2020 and BA in Chinese Literature and Languages from Nanjing University in 2018.
+      <p class="site-description animated fadeIn" itemprop="description">Hello! I am currently the third-year PhD student in the Department of Linguistics at Rutgers University.<br/> I received my MA in General Linguistics from the University of Rochester in 2020 and BA in Chinese Literature and Languages from Nanjing University in 2018.
  </p>
     
   </div>
@@ -83,7 +83,7 @@ p.site-description.animated.fadeIn {
         </h3>
       </header>
       <div class="entry-excerpt p-summary">
-        <p>My linguistics interests are in semantics, syntax and experimental linguistics. My master’s thesis topic is The Syntactic and Semantic Analysis of Classifier-noun phrases in Mandarin, with emphasis on lexical semantics of classifiers. I enjoy using mathematical ways to represent the internal structure and meanings of natural languages under the superficial combination of words. I have specific interests in indefiniteness, modification of quantifiers, semantic restrictions on modifiers, anaphors and wh-movement. My current QP is on Mandarin demonstratives under the supervision of Dorothy Ahn.</p>
+        <p>My linguistics interests are in semantics, syntax and experimental linguistics. My master’s thesis topic is <a href="http://www.sas.rochester.edu/cls/assets/pdf/working/fall-20/4yupaper.pdf">'The Syntactic and Semantic Analysis of Classifier-noun phrases in Mandarin'</a>, with emphasis on lexical semantics of classifiers. I enjoy using mathematical ways to represent the internal structure and meanings of natural languages under the superficial combination of words. I have specific interests in indefiniteness, modification of quantifiers, semantic restrictions on modifiers, anaphors and wh-movement. My current QP is on Mandarin demonstratives under the supervision of <a href="http://dorothyahn.com">Dorothy Ahn</a>.</p>
 
       </div>
     </div>
@@ -136,7 +136,7 @@ p.site-description.animated.fadeIn {
 <!-- end custom footer snippets -->
 <div class="copyright">
     
-  <p>&copy; 2021 Jeanne Yu. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>.</p>
+  <p>&copy; 2022 Jeanne Yu. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>.</p>
     
   </div>
 </footer>
