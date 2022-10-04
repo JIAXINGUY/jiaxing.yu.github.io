@@ -49,16 +49,16 @@ width: 34%;
 </div>
 
 <style>
-.cv {
+.cv2 {
 text-align: center;
 }
-.cv .box {
+.cv2 .box {
 display: inline-block;
 }
-.cv .left {
+.cv2 .left {
 width: 15%;
 }
-.cv .right {
+.cv2 .right {
 width: 34%;
 }
 </style>
