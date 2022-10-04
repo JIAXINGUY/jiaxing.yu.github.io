@@ -25,7 +25,7 @@ permalink: /
     
     
       
-        <h1 class="site-title animated fadeIn"><a href="/">Jeanne Yu 于佳杏 </a></h1>
+        <h1 class="site-title animated fadeIn"><a href="/"> </a></h1>
       
       <p class="site-description animated fadeIn" itemprop="description">Hello! I am currently the third-year PhD student in the <a href="https://ling.rutgers.edu/">Department of Linguistics at Rutgers University </a>.<br/> I received my MA in <a href="http://www.sas.rochester.edu/lin/">General Linguistics from the University of Rochester </a> in 2020 under the supervision of Scott Grimm and BA in <a href="https://www.nju.edu.cn/en/7d/1d/c7111a163101/page.psp">Chinese Literature and Languages from Nanjing University </a> in 2018.
  </p>
@@ -71,7 +71,7 @@ p.site-description.animated.fadeIn {
           <a href="https://twitter.com/jiaxing_yu">jiaxing_yu</a>
         </div>
           <i class="fa fa-fw fa-envelope" aria-hidden="true"></i>
-          <a href="mailto: jy729@rutgers.edu">jy729@rutgers.edu</a>; <a href="mailto: jiaxinguy@gmail.com">jiaxinguy@gmail.com</a>
+          <a href="mailto: jiaxing.j.yu@rutgers.edu">jiaxing.j.yu@rutgers.edu</a>; <a href="mailto: jiaxinguy@gmail.com">jiaxinguy@gmail.com</a>
       </div>
     </div>
   </div>
@@ -83,8 +83,9 @@ p.site-description.animated.fadeIn {
         </h3>
       </header>
       <div class="entry-excerpt p-summary">
-        <p>My linguistics interests are in semantics, syntax and experimental linguistics. My master’s thesis topic is <a href="http://www.sas.rochester.edu/cls/assets/pdf/working/fall-20/4yupaper.pdf">'The Syntactic and Semantic Analysis of Classifier-noun phrases in Mandarin'</a>, with emphasis on lexical semantics of classifiers. I enjoy using mathematical ways to represent the internal structure and meanings of natural languages under the superficial combination of words. I have specific interests in indefiniteness, modification of quantifiers, semantic restrictions on modifiers, anaphors and wh-movement. My current QP is on <h3 style="color:yellow;">Mandarin demonstratives</h3> under the supervision of <a href="http://dorothyahn.com">Dorothy Ahn</a>.</p>
-        <P> I was a member of <a href="https://quantitativesemanticslab.github.io/people">Quantitative Semantics Lab </a> at Rochester. </P>
+        <p>My linguistics interests are in semantics, syntax and experimental linguistics. My master’s thesis topic is <a href="http://www.sas.rochester.edu/cls/assets/pdf/working/fall-20/4yupaper.pdf">'The Syntactic and Semantic Analysis of Classifier-noun phrases in Mandarin'</a>, with emphasis on lexical semantics of classifiers. I enjoy using mathematical ways to represent the internal structure and meanings of natural languages under the superficial combination of words. I have specific interests in indefiniteness, modification of quantifiers, semantic restrictions on modifiers, anaphors and wh-movement. </p>
+        <p> My current QP is on Mandarin demonstratives under the supervision of <a href="http://dorothyahn.com">Dorothy Ahn</a>. </p>
+        <p> I was a member of <a href="https://quantitativesemanticslab.github.io/people">Quantitative Semantics Lab </a> at Rochester. </p>
         <p> I serve as the <a href="https://sites.rutgers.edu/lgsa/news-events/colloquium-series/">Rutgers Colloquium </a> Organizer from 2021 to 2023. </p>
         <p> I also serve as <a href="https://sites.rutgers.edu/lgsa/reading-groups/star/"> Rutgers Syntax Reading Group </a> organizer from 2021 to 2023. </p> 
 
