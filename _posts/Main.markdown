@@ -13,16 +13,16 @@ permalink: /
 
   <div class="navigation-wrapper">
   <!---
- <a href="#menu-toggle" id="menu-toggle">Menu</a>
+   <a href="#menu-toggle" id="menu-toggle">Menu</a>
    --->
     <nav id="primary-nav" class="site-nav animated drop">
       <ul><li><a href="/">Home</a></li><li><a href="/cv">CV</a></li><li><a href="/publications">Publications</a></li><li><a href="/other">Other</a></li></ul>
     </nav>
   </div><!-- /.navigation-wrapper -->
 
-
+ 
    <header class="masthead">
-  <div class="wrap">
+   <div class="wrap">
 
    <h1 class="site-title animated fadeIn"><a href="/">Jeanne Yu 于佳杏 </a></h1>
     
