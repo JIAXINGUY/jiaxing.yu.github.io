@@ -28,7 +28,7 @@ permalink: /
           <a href="https://twitter.com/jiaxing_yu">jiaxing_yu</a>
         </div>
           <i class="fa fa-fw fa-envelope" aria-hidden="true"></i>
-          <a href="mailto: jy729@rutgers.edu">jy729@rutgers.edu</a>; <a href="mailto: jiaxinguy@gmail.com">jiaxinguy@gmail.com</a>
+          <a href="mailto: jiaxing.j.yu@rutgers.edu">jiaxing.j.yu@rutgers.edu</a>; <a href="mailto: jiaxinguy@gmail.com">jiaxinguy@gmail.com</a>
       </div>
     </div>
   </div>
