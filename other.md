@@ -40,6 +40,28 @@ width: 34%;
 }
 </style>
 
+<div class="box left">
+ <p> I am with the famous semantist, -- 'donkey' @NJ. Oct, 2021 </p> 
+</div>
+<div class="box right">
+<img src="/donkeyjiaxing.jpg" />
+</div>
+</div>
+
+<style>
+.cv {
+text-align: center;
+}
+.cv .box {
+display: inline-block;
+}
+.cv .left {
+width: 15%;
+}
+.cv .right {
+width: 34%;
+}
+</style>
 
 
         
