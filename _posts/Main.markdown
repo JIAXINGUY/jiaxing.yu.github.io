@@ -12,7 +12,9 @@ permalink: /
 
 
   <div class="navigation-wrapper">
-    <a href="#menu-toggle" id="menu-toggle">Menu</a>
+  <!---
+ <a href="#menu-toggle" id="menu-toggle">Menu</a>
+   --->
     <nav id="primary-nav" class="site-nav animated drop">
       <ul><li><a href="/">Home</a></li><li><a href="/cv">CV</a></li><li><a href="/publications">Publications</a></li><li><a href="/other">Other</a></li></ul>
     </nav>
@@ -24,9 +26,9 @@ permalink: /
     
     
     
-      
-      <> (<h1 class="site-title animated fadeIn"><a href="/">Jeanne Yu 于佳杏 </a></h1>)
-      
+   <!---
+      <h1 class="site-title animated fadeIn"><a href="/">Jeanne Yu 于佳杏 </a></h1>
+    --->
       <p class="site-description animated fadeIn" itemprop="description">Hello! I am currently the third-year PhD student in the <a href="https://ling.rutgers.edu/">Department of Linguistics at Rutgers University </a>.<br/> I received my MA in <a href="http://www.sas.rochester.edu/lin/">General Linguistics from the University of Rochester </a> in 2020 under the supervision of Scott Grimm and BA in <a href="https://www.nju.edu.cn/en/7d/1d/c7111a163101/page.psp">Chinese Literature and Languages from Nanjing University </a> in 2018.
  </p>
     
@@ -71,7 +73,7 @@ p.site-description.animated.fadeIn {
           <a href="https://twitter.com/jiaxing_yu">jiaxing_yu</a>
         </div>
           <i class="fa fa-fw fa-envelope" aria-hidden="true"></i>
-          <a href="mailto: jy729@rutgers.edu">jy729@rutgers.edu</a>; <a href="mailto: jiaxinguy@gmail.com">jiaxinguy@gmail.com</a>
+          <a href="mailto: jiaxing.j.yu@rutgers.edu">jiaxing.j.yu@rutgers.edu</a>; <a href="mailto: jiaxinguy@gmail.com">jiaxinguy@gmail.com</a>
       </div>
     </div>
   </div>
