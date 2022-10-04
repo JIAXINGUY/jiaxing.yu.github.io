@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /cv/
+permalink: /other/
 --- 
-<!-- ![image](/jiaxingjeanneyu.github.io/ontario.jpeg) -->
+<!-- ![image](/jiaxingjeanneyu.github.io/dog.jpeg) -->
 
 <main id="main" class="main-content" aria-label="Content">
   <article>
@@ -18,10 +18,10 @@ permalink: /cv/
       <div class="page-content">
         <div class="cv">
 <div class="box left">
-<a href="https://drive.google.com/file/d/12vJbzv-cAjFEf5usDuP2CsL3qzQhtJ_K/view?usp=sharing">CV (Updated in 2022 Oct)</a>
+ <p> My pet dog in 2019, China. </p> 
 </div>
 <div class="box right">
-<img src="/ontario.jpeg" />
+<img src="/dog.jpeg" />
 </div>
 </div>
 
