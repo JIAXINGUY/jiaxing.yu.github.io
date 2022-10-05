@@ -18,7 +18,7 @@ permalink: /cv/
       <div class="page-content">
         <div class="cv">
 <div class="box left">
-<a href="https://drive.google.com/file/d/12vJbzv-cAjFEf5usDuP2CsL3qzQhtJ_K/view?usp=sharing">CV (Updated in 2022 Oct)</a>
+<a href="https://drive.google.com/file/d/1EfJEcRonwK2uOiKSublrYFCksO0dCQRC/view?usp=sharing">CV (Updated in 2022 Oct)</a>
 </div>
 <div class="box right">
 <img src="/ontario.jpeg" />
@@ -33,10 +33,10 @@ text-align: center;
 display: inline-block;
 }
 .cv .left {
-width: 30%;
+width: 15%;
 }
 .cv .right {
-width: 69%;
+width: 32%;
 }
 </style>
 
