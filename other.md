@@ -64,6 +64,3 @@ width: 34%;
 </style>
 
 
-     
-  </article>
-</main>
