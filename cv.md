@@ -33,10 +33,10 @@ text-align: center;
 display: inline-block;
 }
 .cv .left {
-width: 15%;
+width: 32%;
 }
 .cv .right {
-width: 32%;
+width: 55%;
 }
 </style>
 
