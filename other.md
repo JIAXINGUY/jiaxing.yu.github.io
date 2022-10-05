@@ -39,7 +39,15 @@ width: 15%;
 width: 34%;
 }
 </style>
-
+<div class="page-wrapper">
+      <header class="page-header">
+        
+        
+          <h1 id="page-title" class="page-title"></h1>
+        
+      </header>
+      <div class="page-content">
+        <div class="cv2">
 <div class="box left">
  <p> I am with the famous semantist, -- 'donkey' @NJ. Oct, 2021 </p> 
 </div>
