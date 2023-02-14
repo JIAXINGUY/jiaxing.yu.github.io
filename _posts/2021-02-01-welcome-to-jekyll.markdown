@@ -84,7 +84,7 @@ p.site-description.animated.fadeIn {
       </header>
       <div class="entry-excerpt p-summary">
         <p>My main research areas are in semantics and syntax. I do theoretical and computational semantics, and also some experimental syntax.  I enjoy using mathematical ways to represent the internal structure and meanings of natural languages under the superficial combination of words. I have specific interests in indefiniteness, quantifiers, semantic restrictions on modifiers, anaphors and wh-movement. </p>
-        <p> My current QP is on Mandarin demonstratives under the supervision of <a href="http://dorothyahn.com">Dorothy Ahn</a>. </p>
+        <p> I have completed my QP1 on Mandarin demonstratives under the supervision of <a href="http://dorothyahn.com">Dorothy Ahn</a>. More to be continued.. </p>
         <p> I presented my Master’s Thesis at LSA 2021 <a href="http://www.sas.rochester.edu/cls/assets/pdf/working/fall-20/4yupaper.pdf">'The Syntactic and Semantic Analysis of Classifier-noun phrases in Mandarin'</a>, with emphasis on lexical semantics of classifiers, under the supervision of Scott Grimm, now the Chair of Linguistics Department at University of Rochester. </p>
         
         <p> I currently serve as the <a href="https://sites.rutgers.edu/lgsa/news-events/colloquium-series/">Rutgers Colloquium </a> Organizer from 2021 to 2023. </p>
