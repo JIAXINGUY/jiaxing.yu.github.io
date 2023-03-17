@@ -63,7 +63,7 @@ p.site-description.animated.fadeIn {
 
 <div class="entries-list">
   <div class="entry-image-container">
-    <img class="entry-image u-photo" src="/main.jpeg" alt="">
+    <img class="entry-image u-photo" src="/YU23.jpeg" alt="">
     <div class="entry-contact">
       <div class="twitter">
         <div>
