@@ -18,10 +18,10 @@ permalink: /other/
       <div class="page-content">
         <div class="cv">
 <div class="box left">
- <p> My pet dog in 2019, China. </p> 
+ <p> My dog DD at home. </p> 
 </div>
 <div class="box right">
-<img src="/dog.jpeg" />
+<img src="/Jiaxing-3.jpg" />
 </div>
 </div>
 
