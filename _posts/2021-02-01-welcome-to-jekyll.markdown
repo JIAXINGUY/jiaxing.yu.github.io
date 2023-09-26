@@ -79,17 +79,18 @@ p.site-description.animated.fadeIn {
     <div class="article-content">
       <header class="entry-header">
         <h3 class="entry-title p-name">
-          <a href="" rel="bookmark">More About Me</a>
+          <font color="blue">More About Me</font>
         </h3>
       </header>
       <div class="entry-excerpt p-summary">
         <p>My main research areas are in semantics and syntax. I do theoretical and computational semantics, and also some experimental syntax.  I enjoy using mathematical ways to represent the internal structure and meanings of natural languages under the superficial combination of words. I have specific interests in indefiniteness, quantifiers, semantic restrictions on modifiers, anaphors and wh-movement. </p>
-        <p> Recent News:  </p>
-        <p> My experimental semantics work (collaborated with Shannon Bryant) 'Comparing reflexive and personal pronouns in Chinese locative prepositional phrases', has been accepted as a Talk at the 2024 LSA Annual Meeting. </p>
-        <p> I present my semantics paper on Mandarin demonstratives <a href="https://2023.esslli.eu/">@ESSLLI2023</a> and <a href="https://www.ruhr-uni-bochum.de/sub28/index.html.en">@SuB28(Sinn und Bedeutung)</a>. </p>
-        <p> I completed my QP1 on Mandarin demonstratives under the supervision of <a href="http://dorothyahn.com">Dorothy Ahn</a>.  </p>
-        <p> I presented my Master’s Thesis at LSA 2021 <a href="http://www.sas.rochester.edu/cls/assets/pdf/working/fall-20/4yupaper.pdf">'The Syntactic and Semantic Analysis of Classifier-noun phrases in Mandarin'</a>, with emphasis on lexical semantics of classifiers, under the supervision of Scott Grimm, now the Chair of Linguistics Department at University of Rochester. </p>
+        <p> <big> <font color="blue">Recent News:</font> </big> </p>
+        <p> --> My experimental semantics work (collaborated with Shannon Bryant) 'Comparing reflexive and personal pronouns in Chinese locative prepositional phrases', has been accepted as a Talk at <a href="https://virtual.oxfordabstracts.com/#/event/public/4438/information">2024 LSA Annual Meeting</a>. </p>
+        <p> --> I present my semantics paper on Mandarin demonstratives <a href="https://2023.esslli.eu/">@ESSLLI2023</a> and <a href="https://www.ruhr-uni-bochum.de/sub28/index.html.en">@SuB28(Sinn und Bedeutung)</a>. </p>
+        <p> --> I completed my QP1 on Mandarin demonstratives under the supervision of <a href="http://dorothyahn.com">Dorothy Ahn</a>.  </p>
+        <p> --> I presented my Master’s Thesis at LSA 2021 <a href="http://www.sas.rochester.edu/cls/assets/pdf/working/fall-20/4yupaper.pdf">'The Syntactic and Semantic Analysis of Classifier-noun phrases in Mandarin'</a>, with emphasis on lexical semantics of classifiers, under the supervision of Scott Grimm, now the Chair of Linguistics Department at University of Rochester. </p>
         
+        <font color="blue">As for organizational and volunteer service:</font>
         <p> I served as the <a href="https://sites.rutgers.edu/lgsa/news-events/colloquium-series/">Rutgers Linguistics Colloquium </a> Organizer from 2021 to 2023. </p>
         <p> I also served as <a href="https://sites.rutgers.edu/lgsa/reading-groups/star/"> Rutgers Syntax Reading Group </a> organizer from 2021 to 2023. </p> 
         <p> I was a member of <a href="https://quantitativesemanticslab.github.io/people">Quantitative Semantics Lab </a> at Rochester. </p> 
