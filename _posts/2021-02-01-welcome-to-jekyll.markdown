@@ -79,7 +79,7 @@ p.site-description.animated.fadeIn {
     <div class="article-content">
       <header class="entry-header">
         
-          <large> <font color="blue">More About Me <a href="https://jiaxingjeanneyu.github.io/cv/">(my CV)</a></font></large>
+           <font size="+2", color="blue">More About Me <a href="https://jiaxingjeanneyu.github.io/cv/">(my CV)</a></font>
         
       </header>
       <div class="entry-excerpt p-summary">
