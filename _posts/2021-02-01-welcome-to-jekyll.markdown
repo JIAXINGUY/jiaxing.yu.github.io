@@ -79,7 +79,7 @@ p.site-description.animated.fadeIn {
     <div class="article-content">
       <header class="entry-header">
         <h3 class="entry-title p-name">
-          <font color="blue">More About Me</font>
+          <font color="blue">More About Me <a href="https://jiaxingjeanneyu.github.io/cv/">(my CV)</a></font>
         </h3>
       </header>
       <div class="entry-excerpt p-summary">
@@ -148,7 +148,7 @@ p.site-description.animated.fadeIn {
 <!-- end custom footer snippets -->
 <div class="copyright">
     
-  <p>&copy; 2022 Jeanne Yu. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>.</p>
+  <p>&copy; 2023 Jeanne Yu. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>.</p>
     
   </div>
 </footer>
