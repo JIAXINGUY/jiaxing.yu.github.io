@@ -78,9 +78,9 @@ p.site-description.animated.fadeIn {
   <article class="entry h-entry">
     <div class="article-content">
       <header class="entry-header">
-        <h3 class="entry-title p-name">
+        
           <font color="blue">More About Me <a href="https://jiaxingjeanneyu.github.io/cv/">(my CV)</a></font>
-        </h3>
+        
       </header>
       <div class="entry-excerpt p-summary">
         <p>My main research areas are in semantics and syntax. I do theoretical and computational semantics, and also some experimental syntax.  I enjoy using mathematical ways to represent the internal structure and meanings of natural languages under the superficial combination of words. I have specific interests in indefiniteness, quantifiers, semantic restrictions on modifiers, anaphors and wh-movement. </p>
