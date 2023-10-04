@@ -1,4 +1,5 @@
 ---
+title: Jiaxing Yu Linguist
 layout: default
 permalink: /
 ---
