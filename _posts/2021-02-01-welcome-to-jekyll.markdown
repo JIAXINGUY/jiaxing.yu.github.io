@@ -68,7 +68,7 @@ p.site-description.animated.fadeIn {
     <div class="entry-contact">
       <div class="twitter">
         <div>
-          <i class="fab fa-fw fa-google-scholar" aria-hidden="true"></i>
+          <i class="fa fa-fw fa-googlescholar" aria-hidden="true"></i>
           <a href="https://scholar.google.com/citations?hl=en&user=FMaESuYAAAAJ">jiaxing_yu</a>
         <div>
           <i class="fab fa-fw fa-twitter" aria-hidden="true"></i>
