@@ -87,7 +87,7 @@ p.site-description.animated.fadeIn {
         
       </header>
       <div class="entry-excerpt p-summary">
-        <p>My name is pronounced as [âZI: ̄AC`iN  ́Y] </p>
+        <p>My name is pronounced as /dʒɪɑ̄ɕìŋ ý/ </p>
         <p>My main research areas are in semantics and syntax. I do theoretical and computational semantics, and also some experimental syntax.  I enjoy using mathematical ways to represent the internal structure and meanings of natural languages under the superficial combination of words. I have specific interests in indefiniteness, quantifiers, semantic restrictions on modifiers, anaphors and wh-movement. </p>
         <p> <big> <font color="blue">Recent News:</font> </big> </p>
         <p> --> My experimental semantics work (collaborated with <a href="https://sites.google.com/view/shannonbryant">Shannon Bryant</a>) 'Comparing reflexive and personal pronouns in Chinese locative prepositional phrases', has been accepted as a Talk at <a href="https://virtual.oxfordabstracts.com/#/event/public/4438/information">2024 LSA Annual Meeting</a>. </p>
