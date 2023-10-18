@@ -70,6 +70,8 @@ p.site-description.animated.fadeIn {
         <div>
           <i class="fab fa-fw fa-twitter" aria-hidden="true"></i>
           <a href="https://twitter.com/jiaxing_yu">jiaxing_yu</a>
+          <i class="fab fa-fw fa-twitter" aria-hidden="true"></i>
+          <a href="https://twitter.com/jiaxing_yu">jiaxing_yu</a>
         </div>
           <i class="fa fa-fw fa-envelope" aria-hidden="true"></i>
           <a href="mailto: jiaxing.j.yu@rutgers.edu">jiaxing.j.yu@rutgers.edu</a>; <a href="mailto: jiaxinguy@gmail.com">jiaxinguy@gmail.com</a>
