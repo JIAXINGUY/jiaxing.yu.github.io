@@ -12,9 +12,9 @@ permalink: /publications/
 <small>*<a href="https://2023.esslli.eu/">ESSLLI 2023</a>, a (virtual) talk at the student session, August 2023*</small> 
 
 
-**<a href="https://www.linguisticsociety.org/abstract/lexical-meaning-mandarin-classifiers">Lexical Meanings in Mandarin classifiers</a>**  
+**<a href="https://www.linguisticsociety.org/abstract/lexical-meaning-mandarin-classifiers">Lexical Meanings in Mandarin classifiers </a><a href="https://drive.google.com/file/d/1sL6zrvzcDNJZZgilb3ZK8dk7LQFRq4yl/view?usp=sharing">[slide]</a>**  
 <small>Jiaxing Yu</small>  
-<small>*LSA 2021, poster session, Jan 2021*</small>  
+<small>*<a href="https://www.linguisticsociety.org/event/lsa-2021-annual-meeting">LSA 2021</a>, poster session, Jan 2021*</small>  
 
 **<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FMaESuYAAAAJ&citation_for_view=FMaESuYAAAAJ:u5HHmVD_uO8C">Syntactic-semantic analysis of Mandarin Classifiers </a>**  
 <small>Jiaxing Yu</small>  
