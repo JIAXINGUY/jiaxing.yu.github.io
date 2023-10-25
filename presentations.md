@@ -23,16 +23,16 @@ permalink: /presentations/
 <small>Jiaxing Yu</small>  
 <small>*Rutgers Experimental Semantics Seminar with Prof. Dorothy Ahn, May 2023*</small> 
 
-**Negation in Mandarin</a>**  
+**Negation in Mandarin**  
 <small>Jiaxing Yu</small>  
 <small>*Rutgers Syntax Seminar with Prof. Viviane Deprez, May 2022*</small> 
 
 
-**Western Armenian Vowel Reductions with BMRS</a>**  
+**Western Armenian Vowel Reductions with BMRS**  
 <small>Jiaxing Yu</small>  
 <small>*Rutgers Phonology Seminar with Prof. Adam Jardine, Dec 2021*</small>  
 
-**Definiteness in Chinese</a>**
+**Definiteness in Chinese**
 <small>Jiaxing Yu</small>  
 <small>*Rutgers Semantics Seminar with Prof. Dorothy Ahn, April 2021*</small> 
 
@@ -40,11 +40,11 @@ permalink: /presentations/
 <small>Jiaxing Yu</small>  
 <small>*LSA 2021, poster session, Jan 2021*</small>  
 
-**Lexical Meanings in Mandarin classifiers</a>**  
+**Lexical Meanings in Mandarin classifiers**  
 <small>Jiaxing Yu</small>  
 <small>*Rutgers St@r reading group 2020, Nov 2020*</small>  
 
-**Syntactic and semantic analysis of Mandarin classifiers</a>**  
+**Syntactic and semantic analysis of Mandarin classifiers**  
 <small>Jiaxing Yu</small>  
 <small>*University of Rochester MA thesis defense, April 2020*</small>  
  
