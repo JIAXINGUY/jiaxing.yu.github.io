@@ -94,7 +94,7 @@ p.site-description.animated.fadeIn {
         <p> --> I present my semantics paper on Mandarin demonstratives <a href="https://2023.esslli.eu/">@ESSLLI2023</a> and <a href="https://www.ruhr-uni-bochum.de/sub28/index.html.en">@SuB28(Sinn und Bedeutung)</a>. </p>
         <p> --> I colloborated with Rutgers Computer Science Department on the Amazon Conversational AI Bot Competition 2023 <a href="https://www.amazon.science/alexa-prize/teams/diwbot-taskbot-challenge-2">DiwBot-taskbot-challenge</a>. </p> 
         <p> --> I completed my QP1 on Mandarin demonstratives under the supervision of <a href="http://dorothyahn.com">Dorothy Ahn</a>.  </p>
-        <p> --> I presented my Master’s Thesis at LSA 2021 <a href="http://www.sas.rochester.edu/cls/assets/pdf/working/fall-20/4yupaper.pdf">'The Syntactic and Semantic Analysis of Classifier-noun phrases in Mandarin'</a>, with emphasis on lexical semantics of classifiers, under the supervision of Scott Grimm, now the Chair of Linguistics Department at University of Rochester. </p>
+        <p> --> I presented my Master’s Thesis at LSA 2021 <a href="http://www.sas.rochester.edu/cls/assets/pdf/working/fall-20/4yupaper.pdf">'The Syntactic and Semantic Analysis of Classifier-noun phrases in Mandarin'</a>, with emphasis on lexical semantics of classifiers, under the supervision of Scott Grimm. </p>
         
         <font color="blue">As for organizational and volunteer service:</font>
         <p> I served as the <a href="https://sites.rutgers.edu/lgsa/news-events/colloquium-series/">Rutgers Linguistics Colloquium </a> Organizer from 2021 to 2023. </p>
