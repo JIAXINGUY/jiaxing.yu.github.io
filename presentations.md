@@ -2,6 +2,10 @@
 layout: page
 permalink: /presentations/
 ---
+**Comparing reflexives and personal pronouns in Chinese locative prepositional phrases <a href="https://docs.google.com/presentation/d/1QKHrgprmxobCRhCVB5oK8ciKV11cGusO/edit?usp=sharing&ouid=113790555473084855261&rtpof=true&sd=true">[slide]</a>**
+<small>Jiaxing Yu & Shannon Bryant</small>  
+<small>*<a href="https://virtual.oxfordabstracts.com/#/event/public/4438/information">LSA 2024</a>, Semantics & Variation talk session, Jan 4-7 2024*</small>
+
 **Semantics of Mandarin Demonstratives <a href="https://drive.google.com/file/d/1gylYnk4zSuFLyo_KVW0qy53YwSNzRIN0/view?usp=sharing">[poster]</a><a href="https://drive.google.com/file/d/1vLB1APRV9jgUsMUYx3raulSnHxn9Rs3F/view?usp=sharing">[lightening talk]</a>**  
 <small>Jiaxing Yu</small>  
 <small>*<a href="https://www.ruhr-uni-bochum.de/sub28/index.html.en">SuB28 2023</a>, poster session, Sep 2023*</small> 
