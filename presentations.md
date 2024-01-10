@@ -11,7 +11,7 @@ permalink: /presentations/
 <small>*<a href="https://www.ruhr-uni-bochum.de/sub28/index.html.en">SuB28 2023</a>, poster session, Sep 2023*</small> 
 
 
-**<a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://semanticsarchive.net/Archive/mM5YzY3N/YU_Mandarin_Demonstrative_ESSLLI%20-%20Omri%20Doron.pdf">Semantics of the non-deictic uses of Mandarin Demonstratives</a> <a href="https://drive.google.com/file/d/1jKfQzebaJMXUv7m3vL8Qx-fpBOPE93ei/view?usp=sharing">[talk slide]</a>**  
+**<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FMaESuYAAAAJ&citation_for_view=FMaESuYAAAAJ:9yKSN-GCB0IC">Semantics of the non-deictic uses of Mandarin Demonstratives</a> <a href="https://drive.google.com/file/d/1jKfQzebaJMXUv7m3vL8Qx-fpBOPE93ei/view?usp=sharing">[talk slide]</a>**  
 <small>Jiaxing Yu</small>  
 <small>*<a href="https://2023.esslli.eu/">ESSLLI 2023</a>, a (virtual) talk at the student session, August 2023*</small>
 
