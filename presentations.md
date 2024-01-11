@@ -6,6 +6,10 @@ permalink: /presentations/
 <small>Jiaxing Yu & Shannon Bryant</small>  
 <small>*<a href="https://virtual.oxfordabstracts.com/#/event/public/4438/information">LSA 2024</a>, Semantics & Variation talk session, Jan 4-7 2024*</small>
 
+**The Subject and Object Asymmetries in two types of Mandarin Strippings**
+<small>Jiaxing Yu</small>
+</small>*SynNYU, Nov 17 2023, NYU*</small>
+
 **Semantics of Mandarin Demonstratives <a href="https://drive.google.com/file/d/1gylYnk4zSuFLyo_KVW0qy53YwSNzRIN0/view?usp=sharing">[poster]</a><a href="https://drive.google.com/file/d/1vLB1APRV9jgUsMUYx3raulSnHxn9Rs3F/view?usp=sharing">[lightening talk]</a>**  
 <small>Jiaxing Yu</small>  
 <small>*<a href="https://www.ruhr-uni-bochum.de/sub28/index.html.en">SuB28 2023</a>, poster session, Sep 2023*</small> 
