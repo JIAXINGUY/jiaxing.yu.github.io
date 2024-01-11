@@ -2,13 +2,13 @@
 layout: page
 permalink: /presentations/
 ---
-**Comparing reflexives and personal pronouns in Chinese locative prepositional phrases <a href="https://docs.google.com/presentation/d/1QKHrgprmxobCRhCVB5oK8ciKV11cGusO/edit?usp=sharing&ouid=113790555473084855261&rtpof=true&sd=true">[slide]</a>**
-<small>Jiaxing Yu & Shannon Bryant</small>  
+**Comparing reflexives and personal pronouns in Chinese locative prepositional phrases <a href="https://docs.google.com/presentation/d/1QKHrgprmxobCRhCVB5oK8ciKV11cGusO/edit?usp=sharing&ouid=113790555473084855261&rtpof=true&sd=true">[slide]</a>**          
+<small>Jiaxing Yu & Shannon Bryant</small>            
 <small>*<a href="https://virtual.oxfordabstracts.com/#/event/public/4438/information">LSA 2024</a>, Semantics & Variation talk session, Jan 4-7 2024*</small>
 
 
-**The Subject and Object Asymmetries in two types of Mandarin Strippings <a href="">[poster]</a>**
-<small>Jiaxing Yu</small>
+**The Subject and Object Asymmetries in two types of Mandarin Strippings <a href="">[poster]</a>**  
+<small>Jiaxing Yu</small>  
 <small>*SynNYU, Nov 17 2023, NYU*</small>
 
 
