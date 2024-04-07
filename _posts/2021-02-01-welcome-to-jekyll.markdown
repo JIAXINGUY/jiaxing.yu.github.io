@@ -89,6 +89,11 @@ p.site-description.animated.fadeIn {
         <p>My name is pronounced as [dʒɪɑ̄ɕìŋ ý]. </p>
         <p>My main research areas are in semantics and syntax. I do theoretical and computational semantics, and also some experimental syntax.  I enjoy using mathematical ways to represent the internal structure and meanings of natural languages under the superficial combination of words. I have specific interests in indefiniteness, semantic restrictions on modifiers, anaphors and ellipsis. </p>
         <p> <big> <font color="blue">Recent News:</font> </big> </p>
+        <p> --> I presented my semantics work on Mandarin double negation at MACSIM10. </p>
+        <p> --> I defended my QP2 on the Syntax of Mandarin Stripping-Ellipsis. </p>
+        
+        <p> --> 2023:
+        <p> --> I presented a poster 
         <p> --> I have achieved <a href="https://ruccs.rutgers.edu/academics/graduate/graduate-certificate#cognitive-science-program-course-offerings">Rutgers Cognitive Science Graduate Certificate</a>! </p>
         <p> --> My experimental semantics work (collaborated with <a href="https://sites.google.com/view/shannonbryant">Shannon Bryant</a>) 'Comparing reflexive and personal pronouns in Chinese locative prepositional phrases', has been accepted as a Talk at <a href="https://virtual.oxfordabstracts.com/#/event/public/4438/information">2024 LSA Annual Meeting</a>. </p>
         <p> --> I present my semantics paper on Mandarin demonstratives <a href="https://2023.esslli.eu/">@ESSLLI2023</a> and <a href="https://www.ruhr-uni-bochum.de/sub28/index.html.en">@SuB28(Sinn und Bedeutung)</a>. </p>
