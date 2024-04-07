@@ -18,7 +18,7 @@ permalink: /cv/
       <div class="page-content">
         <div class="cv">
 <div class="box left">
-<a href="https://drive.google.com/file/d/10fI5OEB9voccH0BhaIk1XoESVAClL2lK/view?usp=sharing">CV (Updated in Oct 2023)</a>
+<a href="https://drive.google.com/file/d/1BVfPEcw6f2wrETRdJU9R5Vz7t9pg3VkE/view?usp=sharing">CV (Updated in April 2024)</a>
 </div>
 <div class="box right">
 <img src="/ontario.jpeg" />
