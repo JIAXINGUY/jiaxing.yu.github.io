@@ -93,7 +93,7 @@ p.site-description.animated.fadeIn {
         <p> --> I defended my QP2 on the Syntax of Mandarin Stripping-Ellipsis. </p>
         
         <p> --> 2023:
-        <p> --> I presented a poster 
+        <p> --> I presented my syntax ellipsis work as a poster at SynNYU. </p>
         <p> --> I have achieved <a href="https://ruccs.rutgers.edu/academics/graduate/graduate-certificate#cognitive-science-program-course-offerings">Rutgers Cognitive Science Graduate Certificate</a>! </p>
         <p> --> My experimental semantics work (collaborated with <a href="https://sites.google.com/view/shannonbryant">Shannon Bryant</a>) 'Comparing reflexive and personal pronouns in Chinese locative prepositional phrases', has been accepted as a Talk at <a href="https://virtual.oxfordabstracts.com/#/event/public/4438/information">2024 LSA Annual Meeting</a>. </p>
         <p> --> I present my semantics paper on Mandarin demonstratives <a href="https://2023.esslli.eu/">@ESSLLI2023</a> and <a href="https://www.ruhr-uni-bochum.de/sub28/index.html.en">@SuB28(Sinn und Bedeutung)</a>. </p>
