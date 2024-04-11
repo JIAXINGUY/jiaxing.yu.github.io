@@ -15,7 +15,7 @@ permalink: /
   <div class="navigation-wrapper">
     <a href="#menu-toggle" id="menu-toggle"> </a>
     <nav id="primary-nav" class="site-nav animated drop">
-      <ul><li><a href="/">Home</a></li><li><a href="/cv">CV</a></li><li><a href="/publications">Publications</a></li><li><a href="/presentations">Presentations</a></li><li><a href="/other">Other</a></li></ul>
+      <ul><li><a href="/cv">CV</a></li><li><a href="/publications">Publications</a></li><li><a href="/presentations">Presentations</a></li><li><a href="/other">Other</a></li></ul>
     </nav>
   </div><!-- /.navigation-wrapper -->
 
@@ -100,6 +100,7 @@ p.site-description.animated.fadeIn {
         <p> --> I presented my Master’s Thesis at LSA 2021 <a href="http://www.sas.rochester.edu/cls/assets/pdf/working/fall-20/4yupaper.pdf">'The Syntactic and Semantic Analysis of Classifier-noun phrases in Mandarin'</a>, with emphasis on lexical semantics of classifiers, under the supervision of Scott Grimm. </p>
         
         <font color="blue">As for organizational and volunteer service:</font>
+        <p> I serve as a LaCo session chair of ESSLLI2024 Student Session.</p>
         <p> I served as the <a href="https://sites.rutgers.edu/lgsa/news-events/colloquium-series/">Rutgers Linguistics Colloquium </a> Organizer from 2021 to 2023. </p>
         <p> I also served as <a href="https://sites.rutgers.edu/lgsa/reading-groups/star/"> Rutgers Syntax Reading Group </a> organizer from 2021 to 2023. </p> 
         <p> I was a member of <a href="https://quantitativesemanticslab.github.io/people">Quantitative Semantics Lab </a> at Rochester. </p> 
