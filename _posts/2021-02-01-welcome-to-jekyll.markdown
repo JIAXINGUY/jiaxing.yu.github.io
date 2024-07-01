@@ -28,7 +28,7 @@ permalink: /
       
         <h1 class="site-title animated fadeIn"><a href="/"> </a></h1>
       
-      <p class="site-description animated fadeIn" itemprop="description">Hello! I am currently the fourth-year PhD candidate in the <a href="https://ling.rutgers.edu/">Department of Linguistics at Rutgers University </a>.<br/> I received my MA in <a href="http://www.sas.rochester.edu/lin/">General Linguistics from the University of Rochester </a> in 2020 under the supervision of Scott Grimm and BA in <a href="https://www.nju.edu.cn/en/7d/1d/c7111a163101/page.psp">Chinese Literature and Languages from Nanjing University </a> in 2018.
+      <p class="site-description animated fadeIn" itemprop="description">Hello! I am currently the fourth-year PhD candidate in the <a href="https://ling.rutgers.edu/">Department of Linguistics at Rutgers University</a>.<br/> I received my MA in <a href="http://www.sas.rochester.edu/lin/">General Linguistics from the University of Rochester </a> in 2020 under the supervision of Scott Grimm and BA in <a href="https://www.nju.edu.cn/en/7d/1d/c7111a163101/page.psp">Chinese Literature and Languages from Nanjing University </a> in 2018.
  </p>
     
   </div>
@@ -89,6 +89,7 @@ p.site-description.animated.fadeIn {
         <p>My name is pronounced as [dʒɪɑ̄ɕìŋ ý]. </p>
         <p>My main research areas are in semantics and syntax. I do theoretical and computational semantics, and also some experimental syntax.  I enjoy using mathematical ways to represent the internal structure and meanings of natural languages under the superficial combination of words. I have specific interests in indefiniteness, semantic restrictions on modifiers, anaphors and ellipsis. </p>
         <p> <big> <font color="blue">Recent News:</font> </big> </p>
+        <p> --> My semantics work on Mandarin Double Negation is accpeted as a poster at <a href="https://sub29.unime.it/">SuB29</a>! 
         <p> --> I presented my semantics work on Mandarin double negation at MACSIM10. </p>
         <p> --> I defended my QP2 on the Syntax of Mandarin Stripping-Ellipsis. </p>
         <p> --> I presented my syntax ellipsis work as a poster at SynNYU. </p>
