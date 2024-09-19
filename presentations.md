@@ -2,6 +2,9 @@
 layout: page
 permalink: /presentations/
 ---
+**Mandarin Sentence-Final Particle + Double Negation = Single Negation <a href="https://drive.google.com/file/d/1bl2eUBFE_AIwOB9jqbHpPHnwXac352Qz/view?usp=sharing">[poster]</a>**
+<small>Jiaxing Yu</small>
+<small>*SINN und BEDEUTUNG 29, Noto - Siracusa, 16 - 20 SEPTEMBER 2024*</small>
 
 **A VERUM account on Mandarin double negation**
 <small>Jiaxing Yu</small>  
