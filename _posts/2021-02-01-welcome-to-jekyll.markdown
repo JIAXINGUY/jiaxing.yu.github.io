@@ -28,7 +28,7 @@ permalink: /
       
         <h1 class="site-title animated fadeIn"><a href="/"> </a></h1>
       
-      <p class="site-description animated fadeIn" itemprop="description">Hello! I am currently the fourth-year PhD candidate in the <a href="https://ling.rutgers.edu/">Department of Linguistics at Rutgers University</a>.<br/> I received my MA in <a href="http://www.sas.rochester.edu/lin/">General Linguistics from the University of Rochester </a> in 2020 under the supervision of Scott Grimm and BA in <a href="https://www.nju.edu.cn/en/7d/1d/c7111a163101/page.psp">Chinese Literature and Languages from Nanjing University </a> in 2018.
+      <p class="site-description animated fadeIn" itemprop="description">Hello! I am currently the fifth-year PhD candidate in the <a href="https://ling.rutgers.edu/">Department of Linguistics at Rutgers University</a>.<br/> I received my MA in <a href="http://www.sas.rochester.edu/lin/">General Linguistics from the University of Rochester </a> in 2020 under the supervision of Scott Grimm and BA in <a href="https://chin.nju.edu.cn/English/">Chinese Literature and Languages from Nanjing University </a> in 2018.
  </p>
     
   </div>

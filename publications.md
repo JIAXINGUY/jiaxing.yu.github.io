@@ -2,9 +2,17 @@
 layout: page
 permalink: /publications/
 ---
+
+
+
+**Comparing reflexives and personal pronouns in Chinese locative prepositional phrases <a href="https://docs.google.com/presentation/d/1QKHrgprmxobCRhCVB5oK8ciKV11cGusO/edit?usp=sharing&ouid=113790555473084855261&rtpof=true&sd=true">[slide]</a>**          
+<small>Jiaxing Yu & Shannon Bryant</small>            
+<small>*Proceedings of LSA 2024*</small>
+
+
 **Semantics of Mandarin Demonstratives <a href="https://drive.google.com/file/d/1gylYnk4zSuFLyo_KVW0qy53YwSNzRIN0/view?usp=sharing">[poster]</a><a href="https://drive.google.com/file/d/1vLB1APRV9jgUsMUYx3raulSnHxn9Rs3F/view?usp=sharing">[lightening talk]</a>**  
 <small>Jiaxing Yu</small>  
-<small>*<a href="https://www.ruhr-uni-bochum.de/sub28/index.html.en">SuB28 2023</a>, poster session, Sep 2023*</small> 
+<small>*<a href="https://www.ruhr-uni-bochum.de/sub28/index.html.en">Proceedings of SuB28 2023</a>, poster session, Sep 2023*</small> 
 
 
 **<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FMaESuYAAAAJ&citation_for_view=FMaESuYAAAAJ:9yKSN-GCB0IC">Semantics of the non-deictic uses of Mandarin Demonstratives</a> <a href="https://drive.google.com/file/d/1jKfQzebaJMXUv7m3vL8Qx-fpBOPE93ei/view?usp=sharing">[slide]</a>**  
